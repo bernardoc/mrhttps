@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uidescription>
+	<MrmlPage id="TVPage">
+		<Text fontStyle="Reg72" top="100" left="100">Hello World!</Text>
+	</MrmlPage>
+</uidescription>
